@@ -1,0 +1,22 @@
+Emp ID,Emp Name,Department,Pay Date,Hourly Rate,Hours Worked,Notes,Gross Pay,Hours Flag,Tax Rate,Tax,Net Pay,Overtime Hours,Regular Hours
+E1000,Employee 1,Marketing,2024-06-01 00:00:00,46,41,Late submission,1886,Overtime,0.13,245.18,1640.82,1,40
+E1001,Employee 2,Sales,2024-06-08 00:00:00,49,42,Late submission,2058,Overtime,0.16,329.28000000000003,1728.72,2,40
+E1003,Employee 4,Sales,2024-06-22 00:00:00,52,44,Late submission,2288,Overtime,0.16,366.08,1921.92,4,40
+E1005,Employee 6,Hr,2024-07-06 00:00:00,39,43,Late submission,1677,Overtime,0.12,201.23999999999998,1475.76,3,40
+E1012,Employee 13,Sales,2024-08-24 00:00:00,49,43,Late submission,2107,Overtime,0.16,337.12,1769.88,3,40
+E1018,Employee 19,It,2024-10-05 00:00:00,52,42,,2184,Overtime,0.15,327.59999999999997,1856.4,2,40
+E1019,Employee 20,Marketing,2024-10-12 00:00:00,31,44,Missing timesheet,1364,Overtime,0.13,177.32,1186.68,4,40
+E1000,Employee 1,Marketing,2024-06-01 00:00:00,46,41,Late submission,1886,Overtime,0.13,245.18,1640.82,1,40
+E1001,Employee 2,Sales,2024-06-08 00:00:00,49,42,Late submission,2058,Overtime,0.16,329.28000000000003,1728.72,2,40
+E1003,Employee 4,Sales,2024-06-22 00:00:00,52,44,Late submission,2288,Overtime,0.16,366.08,1921.92,4,40
+E1005,Employee 6,Hr,2024-07-06 00:00:00,39,43,Late submission,1677,Overtime,0.12,201.23999999999998,1475.76,3,40
+E1012,Employee 13,Sales,2024-08-24 00:00:00,49,43,Late submission,2107,Overtime,0.16,337.12,1769.88,3,40
+E1018,Employee 19,It,2024-10-05 00:00:00,52,42,,2184,Overtime,0.15,327.59999999999997,1856.4,2,40
+E1019,Employee 20,Marketing,2024-10-12 00:00:00,31,44,Missing timesheet,1364,Overtime,0.13,177.32,1186.68,4,40
+E1000,Employee 1,Marketing,2024-06-01 00:00:00,46,41,Late submission,1886,Overtime,0.13,245.18,1640.82,1,40
+E1001,Employee 2,Sales,2024-06-08 00:00:00,49,42,Late submission,2058,Overtime,0.16,329.28000000000003,1728.72,2,40
+E1003,Employee 4,Sales,2024-06-22 00:00:00,52,44,Late submission,2288,Overtime,0.16,366.08,1921.92,4,40
+E1005,Employee 6,Hr,2024-07-06 00:00:00,39,43,Late submission,1677,Overtime,0.12,201.23999999999998,1475.76,3,40
+E1012,Employee 13,Sales,2024-08-24 00:00:00,49,43,Late submission,2107,Overtime,0.16,337.12,1769.88,3,40
+E1018,Employee 19,It,2024-10-05 00:00:00,52,42,,2184,Overtime,0.15,327.59999999999997,1856.4,2,40
+E1019,Employee 20,Marketing,2024-10-12 00:00:00,31,44,Missing timesheet,1364,Overtime,0.13,177.32,1186.68,4,40
