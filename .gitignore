@@ -1,0 +1,4 @@
+*.db
+outputs/
+__pycache__/
+*.pyc
